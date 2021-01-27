@@ -1,0 +1,11 @@
+[33mcommit cc8cd5293ee8406531715e969630f6d5236ad860[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Prabal <sprabal01@gmail.com>
+Date:   Mon Jan 18 17:35:53 2021 +0530
+
+    intial commit
+
+[33mcommit 05c770f9ebf3d35df3e2f26c42221b85c1ced928[m
+Author: Prabal <Prabal>
+Date:   Thu Jan 7 10:56:25 2021 +0530
+
+    Initialize project using Create React App
