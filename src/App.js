@@ -5,8 +5,9 @@ import Chat from "./components/chat/Chat";
 // import { Switch } from "@material-ui/core";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Login from "./components/login/Login"
+import { useStateValue } from "./components/stateprovide/StateProvider";
 function App() {
-    const [user, setUser]= useState(null);
+    const [{user}, dispatch ]= useStateValue();
 
     return (
         <div className="App">
